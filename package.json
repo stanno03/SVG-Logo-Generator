@@ -1,0 +1,30 @@
+{
+  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanno03/SVG-Logo-Generator.git"
+  },
+  "keywords": [
+    "SVG",
+    "Logo"
+  ],
+  "author": "stanno03/Rinzlxr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanno03/SVG-Logo-Generator/issues"
+  },
+  "homepage": "https://github.com/stanno03/SVG-Logo-Generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
